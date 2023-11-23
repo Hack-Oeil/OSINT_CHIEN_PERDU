@@ -3,9 +3,9 @@
 ## Présentation du CTF 
 **ID** 46 dans **les CTFs de Cyrhades**
 
-Je vous explique, j'étais dans la rue quand j'ai vu un jeune labrador de couleur fauve, s'enfuir du bâtiment derrière moi, je suis quasiment sûr que c'était une femelle, je n'ai même pas eu le temps de la prendre en photo. Mais j'aimerais savoir à qui elle appartient et comment elle s'appelle.
+Je vous explique, j'étais dans la rue quand j'ai vu un jeune chien, pas plus de 2ans à mon avis,s'enfuir du bâtiment derrière moi, je n'ai même pas eu le temps de le prendre en photo. Mais j'aimerais savoir à qui il appartient et comment il s'appelle.
 
-Vous devez trouver le prénom et le nom du propriétaire et le nom de ce labrador fauve femelle de 2 ans environ.
+Vous devez trouver le prénom et le nom du propriétaire et le nom de ce jeune chien.
 
 
 # Format du Flag
